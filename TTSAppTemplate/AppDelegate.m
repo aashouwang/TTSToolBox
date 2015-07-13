@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-#import "ViewController.h"
+#import "TTSRootViewController.h"
 
 @implementation AppDelegate
 
@@ -16,7 +16,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     //这里设置RootViewController
     
-    ViewController * rootVC = [[ViewController alloc] init];
+    TTSRootViewController * rootVC = [[TTSRootViewController alloc] init];
     self.window.rootViewController = rootVC;
     [rootVC release];
     
