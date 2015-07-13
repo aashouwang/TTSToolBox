@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7220094B-34DA-407B-B43F-F120A7B98BBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TTSToolBox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E728804A0D4752B98DA41141F5E60DE60AC28FD</key>
+		<string>github.com:aashowang/AppTemplate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TTSToolBox.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E728804A0D4752B98DA41141F5E60DE60AC28FD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:aashowang/AppTemplate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E728804A0D4752B98DA41141F5E60DE60AC28FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E728804A0D4752B98DA41141F5E60DE60AC28FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TTSAppTemplate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
